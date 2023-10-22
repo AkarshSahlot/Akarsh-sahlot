@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638345617775",
+    "project_id": "cant-353cb",
+    "storage_bucket": "cant-353cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638345617775:android:da71f98d9b34b74929489a",
+        "android_client_info": {
+          "package_name": "com.example.canteeno_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoJWjOGX8MzOfc7I6SVHR8Odu81suscl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
